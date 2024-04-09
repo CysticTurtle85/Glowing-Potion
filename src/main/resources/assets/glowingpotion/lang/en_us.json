@@ -4,5 +4,7 @@
   "item.minecraft.splash_potion.effect.glowing_potion": "Splash Glowing Potion",
   "item.minecraft.splash_potion.effect.long_glowing_potion": "Splash Glowing Potion",
   "item.minecraft.lingering_potion.effect.glowing_potion": "Lingering Glowing Potion",
-  "item.minecraft.lingering_potion.effect.long_glowing_potion": "Lingering Glowing Potion"
+  "item.minecraft.lingering_potion.effect.long_glowing_potion": "Lingering Glowing Potion",
+  "item.minecraft.tipped_arrow.effect.glowing_potion": "Glowing Potion Tipped Arrow",
+  "item.minecraft.tipped_arrow.effect.long_glowing_potion": "Glowing Potion Tipped Arrow"
 }
