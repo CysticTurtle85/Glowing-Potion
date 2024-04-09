@@ -3,15 +3,15 @@
 	"id": "glowingpotion",
 	"version": "${version}",
 	"name": "Glowing Potion",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A potion that makes the entity glow",
 	"authors": [
-		"Me!"
+		"CysticTurtle85"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/glowingpotion/icon.png",
 	"environment": "*",
 	"entrypoints": {
